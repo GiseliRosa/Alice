@@ -7,4 +7,4 @@ BEATRIZ COELHO ALMEIDA CALIMAN
 JOÃO PEDRO VAllADARES ARAUJO
 
 DOCUMENTAÇÃO:
-Usando o programa alice 3, o contexto será recriar uma cena do filme "Alice no país das maravilhas".
+Usamos o Alice 3 para recriar uma cena do filme "Alice no País das Maravilhas", para isso criamos estruturas de repetições, uso de eventos e outras aplicações em nosso código. Usamos um dos eventos para fazer com que o usuário tenha uma interação com a história, ao clicar na Alice o usuário desbloqueia uma fala a personagem.
